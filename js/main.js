@@ -1,0 +1,1 @@
+// SmartMenus init

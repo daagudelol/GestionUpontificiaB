@@ -1,0 +1,83 @@
+
+/***  MAIN  ****/
+
+.gestion-main, .gestion-sidebar {
+    margin-top: 20px;
+}
+
+
+
+.gestion-post-title {
+    background: #C62229;
+    padding: 9px;
+    color: #fff;
+}
+.gestion-post-title h3{
+  font-family: 'Roboto Slab', serif;
+}
+
+.gestion-post-content.thumbnail {
+  
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+.gestion-post-content{
+  background-size: 100% 100%;
+    background-image: url('../img/fondo cada item 77-100.png');
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+}
+.gestion-post-content .col-md-2{
+  text-align: center;
+  min-height: 190px;
+}
+
+.flecha{
+    height: 169px;
+    padding-top: 42px;
+}
+/*   SIDEBAR  *****/
+.sidebar-module {
+    background: #B0B0B0;
+    padding: 8px;
+    color: #fff;
+    height: 140px;
+    margin-bottom: 10px;
+}
+.sidebar-module a{
+  color: #fff;
+  position: relative;
+  top: 8px;
+}
+.sidebar-module h3{
+  font-size: 20px !important;
+}
+
+#main-menu .menuDocumentacion{
+    background-size: 100% 100%;
+    background-image: url('../img/Fondodocumentacion.jpg');
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+}
+#main-menu .menuInstructivos{
+    background-size: 100% 100%;
+    background-image: url('../img/FondoGC.jpg');
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+}
+#main-menu .mega-menu ul li.midleLink{
+  position: relative;
+  top: 130px;
+}
+#main-menu .mega-menu ul li.midleLink a{
+  color: #C62229;
+}
+
+
+/*  FOOTER **********/
+.footer{
+  background: #EDEDED;
+  text-align: center;
+  padding-top: 30px;
+}
